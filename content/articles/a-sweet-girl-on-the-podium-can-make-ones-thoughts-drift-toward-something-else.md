@@ -1,16 +1,16 @@
 +++
-author = ["authors/jenna.md"]
+author = []
 categories = "Editorial"
-date = "2013-12-23T13:15:00-05:00"
+date = 2013-12-23T18:15:00Z
 lastmod = "2015-04-28T23:33:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278286813/Female-Conductor-Hair1.jpg.jpg"
 publishDate = "2013-12-23T13:15:00-05:00"
-related_articles = ["articles/who-are-our-comprimarias-why-arent-they-funnier.md","articles/alexandra-bourque-it-is-such-a-rush-of-adrenaline.md"]
+related_articles = ["articles/who-are-our-comprimarias-why-arent-they-funnier.md", "articles/alexandra-bourque-it-is-such-a-rush-of-adrenaline.md"]
 short_description = "Ah, classical music. Old-fashioned to the bone. It&#039;s almost charming, except we still need to write articles about the plight of the female conductor and the female composer. Young Russian conductor Vasily Petrenko basically said that the male players in the orchestra wouldn&#039;t be able to control themselves if they had to look up at the podium and see a pretty lady there."
 slug = "a-sweet-girl-on-the-podium-can-make-ones-thoughts-drift-toward-something-else"
 title = "“A sweet girl on the podium can make one’s thoughts drift toward something else.”"
-+++
 
++++
 Ah, classical music. Old-fashioned to the bone. It's almost charming, except we still need to write articles about the plight of the female conductor and the female composer. Young Russian conductor Vasily Petrenko basically said that the male players in the orchestra wouldn't be able to control themselves if they had to look up at the podium and see a pretty lady there. According to Petrenko, male conductors “often have [less sexual energy](http://www.newsinenglish.no/2013/08/30/new-conductor-strikes-sour-note/) and can focus more on the music. A sweet girl on the podium can make one’s thoughts drift towards something else.”
 
 Now, [this article](http://www.nytimes.com/2013/12/22/arts/music/female-conductors-search-for-equality-at-highest-level.html?pagewanted=1&_r=0&adxnnlx=1387818731-MV22wdovixjQ4sCcfKjqTA) is slightly optimistic, and echoes a few feelings I've had on the subject of women conductors. There may be something to the idea that conducting doesn't appeal to women as much as it does to men. Perhaps the desire to be a conductor comes from a drive for podium power, or the thrill of inspiring a mass of people. Or maybe they're just after attention. But maybe these are also masculine tendencies, and maybe women just don't feel like playing that role in their careers.
