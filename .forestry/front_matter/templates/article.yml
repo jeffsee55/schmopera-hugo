@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/test.md
 - content/articles/a-brand-new-article.md
 - content/articles/jon-lucretia.md
 - content/articles/maria-callas-in-concert.md
