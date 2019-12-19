@@ -40,6 +40,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/some-user.md
 - content/scene/people/željko-lučić.md
 - content/scene/people/zoie-reams.md
 - content/scene/people/zaray-rodriguez.md
