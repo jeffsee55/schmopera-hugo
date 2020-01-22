@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/about/new-about-page.md
 - content/articles/andrea-chenier.md
 - content/articles/aria-guides-donde-lieta-uscì.md
 - content/articles/aria-guides-parmi-veder-le-lagrime.md
