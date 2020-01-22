@@ -56,9 +56,4 @@ build:
   mount_path: "/srv"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-  publish_command: hugo -d public
-  publish_env:
-  - HUGO_ENV=production
-  - HUGO_VERSION=0.59.1
-  output_directory: public
 version: '0.52'
