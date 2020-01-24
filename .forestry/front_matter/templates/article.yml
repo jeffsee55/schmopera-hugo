@@ -116,6 +116,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/about/about-test.md
 - content/articles/a-brand-new-article.md
 - content/articles/a-parisian-traviata-spectacle.md
 - content/articles/a-prodigy-grows-into-his-art.md
