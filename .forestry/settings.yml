@@ -42,11 +42,11 @@ sections:
   label: About
   create: all
   match: "**/*"
-upload_dir: media
-public_path: https://res.cloudinary.com/schmopera/image/upload
+upload_dir: staging
+public_path: ''
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":year:/:month:/:filename:"
+use_front_matter_path: 
+file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=Staging
@@ -56,9 +56,4 @@ build:
   mount_path: "/srv"
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
-  publish_command: hugo -d public
-  publish_env:
-  - HUGO_ENV=production
-  - HUGO_VERSION=0.59.1
-  output_directory: public
 version: '0.52'

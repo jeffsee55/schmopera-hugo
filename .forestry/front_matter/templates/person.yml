@@ -40,7 +40,6 @@ fields:
       type: pages
       section: companies
 pages:
-- content/about/some-person.md
 - content/scene/people/aaron-sheehan.md
 - content/scene/people/adam-plachetka.md
 - content/scene/people/alexandre-sylvestre.md
@@ -158,7 +157,6 @@ pages:
 - content/scene/people/siena-forest.md
 - content/scene/people/simon-keenlyside.md
 - content/scene/people/so-young-park.md
-- content/scene/people/some-user.md
 - content/scene/people/stephen-l-bryant.md
 - content/scene/people/stephen-powell.md
 - content/scene/people/steven-labrie.md
